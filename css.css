@@ -1,0 +1,70 @@
+
+.head
+{
+  padding: 5% 45%;
+
+  background-color: red;
+  position: absolute;
+}
+.img
+{
+  background-color: grey;
+  position: absolute;
+  margin-right: 45%;
+  margin-left: 45%;
+  top: 28%;
+  padding: 5% 5% 4%;
+
+}
+img
+{
+  position: absolute;
+  width: 140px;
+  left: 46%;
+  top: 28%;
+}
+.foot
+{
+position: absolute;
+bottom: 120px;
+top: 50%;
+margin: 0 25%;
+}
+
+h3
+{
+  text-align: center;
+}
+
+h4
+{
+  text-align: left;
+}
+#more
+{
+  display: none;
+}
+P
+{
+  text-align: center;
+  border: 2px solid;
+  border-radius: 20px;
+  border-left: 6px solid;
+  border-right: 6px solid;
+  box-shadow:  0 10px #888888;
+  padding: 2%;
+}
+h5
+{
+  text-align:justify ;
+  border: 2px solid;
+  border-radius: 20px;
+  border-left: 6px solid;
+  border-right: 6px solid;
+  box-shadow:  0 10px #888888;
+  padding: 2%;
+}
+.fas
+{
+  padding-left:20%;
+}
